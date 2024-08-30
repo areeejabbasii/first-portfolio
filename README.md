@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>my protfolio</title>
+    
 </head>
 <body>
 
 <h1> AREEJ ABBASI</h1>
-<img src="myimage.jpeg" alt="sk" height="300px" >
+<img src="https://th.bing.com/th/id/R.dd15ed1705e4232b47787934750df4ba?rik=qStE5GNxJ%2bnY%2fw&amp;pid=ImgRaw&amp;r=0" alt="Tap to activate or exit full screen" class=" nofocus" tabindex="0" aria-label="Tap to activate or exit full screen" role="link">
 <h1>Education</h1>
 <ul>
     <li><B>10 Class</B>: A+ Grade</li>
